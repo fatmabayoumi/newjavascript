@@ -26,5 +26,6 @@
 
 }
 .strategy{
-    color: red;
+    color: red !important;
+    background: red;
 }
