@@ -1,0 +1,27 @@
+.contain{
+    text-align: center;
+    padding: 20px;
+}
+.contain h1{
+  font-size: 80px;
+    font-family: Impact;
+    font-weight: 900;
+ 
+}
+.contain h2{n
+    font-size: 35px;
+}
+.contain button{
+    padding: 30px 30px;
+    width: 250px;
+    background-color: blue;
+     color: #fff;
+}
+.contain button:hover{
+    background: green;
+    color: #fff;
+}
+.contain p{
+    font-size: 35px;
+
+}

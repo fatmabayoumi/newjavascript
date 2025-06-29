@@ -1,2 +1,2 @@
-# newjavascript
-HTML,CSS and JS design
+# HTML-CSS-and-JS
+HTML,CSS and JS template design
